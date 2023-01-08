@@ -1,11 +1,11 @@
-### datasets：
+### Datasets
 
 settrain corresponds to Train4094, settest corresponds to Test169, and settest2 corresponds to Test53.
 
 
-### pdbid and chains of compelx:
+### PDBid and chains of compelx
 
-The dict.npy holds the pdbid and chains of the complex. For example, 6qxp_KC corresponds to the K chain (peptide) and C chain (protein) of 6qxp.
+The dict.npy holds the PDBid and chains of the complex. For example, 6qxp_KC corresponds to the K chain (peptide) and C chain (protein) of 6qxp.
 
 
 ### feature.pkl
