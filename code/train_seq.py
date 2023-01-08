@@ -29,7 +29,7 @@ parser.add_argument('--variant', action='store_true', default=False, help='GCN m
 parser.add_argument('--cutoff', type=float, default=14, help='Distance map cutoff.')
 parser.add_argument('--threshold', type=float, default=0.5, help='Classification threshold.')
 parser.add_argument('--pw', type=float, default=1.0, help='Positive weight.')
-parser.add_argument('--lw', type=float, default=0.1, help='Peptide loss weight')
+parser.add_argument('--lw', type=float, default=1.0, help='Peptide loss weight')
 args = parser.parse_args()
 layers = args.layers
 units = args.units
