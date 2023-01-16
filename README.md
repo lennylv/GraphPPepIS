@@ -9,7 +9,7 @@ The source code, training and test datasets of paper 'Simultaneous prediction of
 ############################################################################
 
 
-### install dependency:
+### Install dependency:
 
 - conda create -n ppis python==3.7.10 -y
 
