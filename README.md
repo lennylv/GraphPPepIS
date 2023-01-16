@@ -42,13 +42,13 @@ Due to the limitation of Github, some inputs larger than 25MB are not uploaded. 
 
 Step 1: ```cd code```
 
-Step 2: ```python predict_graph.py'```
+Step 2: ```python predict_graph.py'``
 
 ## Test our model SeqPPepIS
 
 Step 1: ```cd code```
 
-Step 2: ```python predict_seq.py'```
+Step 2: ```python predict_seq.py'``
 
 ## Train your own model GraphPPepIS
 
